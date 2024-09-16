@@ -1,0 +1,7 @@
+sex x = 10
+if x == 10
+    sex y = 20
+Fuck y
+when y
+    20 -> "Twenty"
+    else -> "Other"
